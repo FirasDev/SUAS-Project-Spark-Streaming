@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+225,01/27/2020,Jiangxi,China,1/27/20 23:59,72,0,2,70.0
+226,01/27/2020,Anhui,China,1/27/20 23:59,70,0,0,70.0
+389,01/30/2020,Yunnan,China,1/30/20 16:00,70,0,0,70.0

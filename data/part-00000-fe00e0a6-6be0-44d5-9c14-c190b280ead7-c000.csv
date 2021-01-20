@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+90,01/24/2020,Hunan,China,1/24/20 17:00,24,0,0,24.0
+290,01/28/2020,Tianjin,China,1/28/20 23:00,24,0,0,24.0
+343,01/29/2020,Gansu,China,1/29/20 19:30,24,0,0,24.0

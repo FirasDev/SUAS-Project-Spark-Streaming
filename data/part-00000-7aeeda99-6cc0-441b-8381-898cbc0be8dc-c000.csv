@@ -1,0 +1,5 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+6,01/22/2020,Guangdong,China,1/22/2020 17:00,26,0,0,26.0
+235,01/27/2020,Yunnan,China,1/27/20 23:59,26,0,0,26.0
+342,01/29/2020,Shanxi,China,1/29/20 19:30,27,0,1,26.0
+397,01/30/2020,Gansu,China,1/30/20 16:00,26,0,0,26.0

@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+91,01/24/2020,Guangxi,China,1/24/20 17:00,23,0,0,23.0
+137,01/25/2020,Guangxi,China,1/25/20 17:00,23,0,0,23.0
+236,01/27/2020,Tianjin,China,1/27/20 23:59,23,0,0,23.0

@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+179,01/26/2020,Sichuan,China,1/26/20 16:00,44,0,0,44.0
+284,01/28/2020,Yunnan,China,1/28/20 23:00,44,0,0,44.0
+392,01/30/2020,Hainan,China,1/30/20 16:00,46,1,1,44.0

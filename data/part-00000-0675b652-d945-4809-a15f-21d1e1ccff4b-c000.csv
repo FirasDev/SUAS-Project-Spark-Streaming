@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+131,01/25/2020,Beijing,China,1/25/20 17:00,41,0,2,39.0
+132,01/25/2020,Anhui,China,1/25/20 17:00,39,0,0,39.0
+285,01/28/2020,Hainan,China,1/28/20 23:00,40,1,0,39.0

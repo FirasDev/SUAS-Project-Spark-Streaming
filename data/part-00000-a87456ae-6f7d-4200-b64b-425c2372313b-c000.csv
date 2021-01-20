@@ -1,0 +1,8 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+133,01/25/2020,Shanghai,China,1/25/20 17:00,33,0,1,32.0
+134,01/25/2020,Henan,China,1/25/20 17:00,32,0,0,32.0
+184,01/26/2020,Jiangsu,China,1/26/20 16:00,33,0,1,32.0
+233,01/27/2020,Hainan,China,1/27/20 23:59,33,1,0,32.0
+287,01/28/2020,Hebei,China,1/28/20 23:00,33,1,0,32.0
+288,01/28/2020,Heilongjiang,China,1/28/20 23:00,33,1,0,32.0
+454,01/31/2020,Tianjin,China,1/31/2020 23:59,32,0,0,32.0

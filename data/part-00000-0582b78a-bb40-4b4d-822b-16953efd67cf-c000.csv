@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+87,01/24/2020,Zhejiang,China,1/24/20 17:00,43,0,1,42.0
+338,01/29/2020,Hainan,China,1/29/20 19:30,43,1,0,42.0
+393,01/30/2020,Heilongjiang,China,1/30/20 16:00,44,2,0,42.0

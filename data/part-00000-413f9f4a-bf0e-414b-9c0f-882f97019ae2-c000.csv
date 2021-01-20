@@ -1,0 +1,33 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+9,01/22/2020,Hainan,China,1/22/2020 17:00,4,0,0,4.0
+15,01/22/2020,Hunan,China,1/22/2020 17:00,4,0,0,4.0
+30,01/22/2020,Tianjin,China,1/22/2020 17:00,4,0,0,4.0
+68,01/23/2020,Tianjin,China,1/23/20 17:00,4,0,0,4.0
+105,01/24/2020,Liaoning,China,1/24/20 17:00,4,0,0,4.0
+151,01/25/2020,Guizhou,China,1/25/20 17:00,4,0,0,4.0
+152,01/25/2020,Jilin,China,1/25/20 17:00,4,0,0,4.0
+153,01/25/2020,Gansu,China,1/25/20 17:00,4,0,0,4.0
+167,01/25/2020,Unknown,Australia,1/25/20 17:00,4,0,0,4.0
+198,01/26/2020,Ningxia,China,1/26/20 16:00,4,0,0,4.0
+199,01/26/2020,Jilin,China,1/26/20 16:00,4,0,0,4.0
+200,01/26/2020,Taiwan,Taiwan,1/26/20 16:00,4,0,0,4.0
+201,01/26/2020,Xinjiang,China,1/26/20 16:00,4,0,0,4.0
+210,01/26/2020,Unknown,Singapore,1/26/20 16:00,4,0,0,4.0
+213,01/26/2020,Unknown,Australia,1/26/20 16:00,4,0,0,4.0
+215,01/26/2020,Unknown,Malaysia,1/26/20 16:00,4,0,0,4.0
+256,01/27/2020,Unknown,South Korea,1/27/20 23:59,4,0,0,4.0
+261,01/27/2020,Unknown,Malaysia,1/27/20 23:59,4,0,0,4.0
+266,01/27/2020,New South Wales,Australia,1/27/20 23:59,4,0,0,4.0
+307,01/28/2020,Unknown,South Korea,1/28/20 23:00,4,0,0,4.0
+310,01/28/2020,Unknown,France,1/28/20 23:00,4,0,0,4.0
+312,01/28/2020,Unknown,Malaysia,1/28/20 23:00,4,0,0,4.0
+317,01/28/2020,New South Wales,Australia,1/28/20 23:00,4,0,0,4.0
+319,01/28/2020,Bavaria,Germany,1/28/20 23:00,4,0,0,4.0
+359,01/29/2020,Unknown,South Korea,1/29/20 19:30,4,0,0,4.0
+369,01/29/2020,New South Wales,Australia,1/29/20 19:30,4,0,0,4.0
+371,01/29/2020,Bavaria,Germany,1/29/20 19:30,4,0,0,4.0
+373,01/29/2020,Unknown,United Arab Emirates,1/29/20 19:30,4,0,0,4.0
+414,01/30/2020,Unknown,South Korea,1/30/20 16:00,4,0,0,4.0
+427,01/30/2020,Bavaria,Germany,1/30/20 16:00,4,0,0,4.0
+429,01/30/2020,Unknown,United Arab Emirates,1/30/20 16:00,4,0,0,4.0
+474,01/31/2020,Unknown,United Arab Emirates,1/31/2020 23:59,4,0,0,4.0

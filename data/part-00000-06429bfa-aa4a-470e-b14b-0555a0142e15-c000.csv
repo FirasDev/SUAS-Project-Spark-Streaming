@@ -1,0 +1,3 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+269,01/28/2020,Guangdong,China,1/28/20 23:00,207,0,4,203.0
+324,01/29/2020,Henan,China,1/29/20 19:30,206,2,1,203.0

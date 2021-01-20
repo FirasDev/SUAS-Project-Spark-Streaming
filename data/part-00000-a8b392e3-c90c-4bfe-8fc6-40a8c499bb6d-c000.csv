@@ -1,0 +1,16 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+66,01/23/2020,Sichuan,China,1/23/20 17:00,8,0,0,8.0
+100,01/24/2020,Hainan,China,1/24/20 17:00,8,0,0,8.0
+101,01/24/2020,Tianjin,China,1/24/20 17:00,8,0,0,8.0
+146,01/25/2020,Heilongjiang,China,1/25/20 17:00,9,1,0,8.0
+193,01/26/2020,Hong Kong,Hong Kong,1/26/20 16:00,8,0,0,8.0
+242,01/27/2020,Hong Kong,Hong Kong,1/27/20 23:59,8,0,0,8.0
+296,01/28/2020,Jilin,China,1/28/20 23:00,8,0,0,8.0
+297,01/28/2020,Taiwan,Taiwan,1/28/20 23:00,8,0,0,8.0
+298,01/28/2020,Hong Kong,Hong Kong,1/28/20 23:00,8,0,0,8.0
+348,01/29/2020,Guizhou,China,1/29/20 19:30,9,0,1,8.0
+350,01/29/2020,Taiwan,Taiwan,1/29/20 19:30,8,0,0,8.0
+405,01/30/2020,Qinghai,China,1/30/20 16:00,8,0,0,8.0
+419,01/30/2020,Unknown,Malaysia,1/30/20 16:00,8,0,0,8.0
+463,01/31/2020,Qinghai,China,1/31/2020 23:59,8,0,0,8.0
+470,01/31/2020,Unknown,Malaysia,1/31/2020 23:59,8,0,0,8.0

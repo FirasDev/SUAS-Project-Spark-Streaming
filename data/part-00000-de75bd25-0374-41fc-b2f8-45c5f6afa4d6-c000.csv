@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+40,01/23/2020,Beijing,China,1/23/20 17:00,22,0,0,22.0
+185,01/26/2020,Hainan,China,1/26/20 16:00,22,0,0,22.0
+186,01/26/2020,Shaanxi,China,1/26/20 16:00,22,0,0,22.0

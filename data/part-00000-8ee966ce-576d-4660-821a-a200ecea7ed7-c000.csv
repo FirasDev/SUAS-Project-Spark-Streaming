@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+180,01/26/2020,Shanghai,China,1/26/20 16:00,40,1,1,38.0
+339,01/29/2020,Liaoning,China,1/29/20 19:30,39,0,1,38.0
+453,01/31/2020,Shanxi,China,1/31/2020 23:59,39,0,1,38.0

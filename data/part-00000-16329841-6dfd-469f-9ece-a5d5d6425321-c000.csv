@@ -1,0 +1,3 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+286,01/28/2020,Liaoning,China,1/28/20 23:00,34,0,0,34.0
+395,01/30/2020,Shanxi,China,1/30/20 16:00,35,0,1,34.0

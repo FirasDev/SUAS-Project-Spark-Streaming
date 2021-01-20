@@ -1,0 +1,10 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+35,01/22/2020,Zhejiang,China,1/22/2020 17:00,10,0,0,10.0
+97,01/24/2020,Fujian,China,1/24/20 17:00,10,0,0,10.0
+145,01/25/2020,Tianjin,China,1/25/20 17:00,10,0,0,10.0
+294,01/28/2020,Xinjiang,China,1/28/20 23:00,10,0,0,10.0
+347,01/29/2020,Hong Kong,Hong Kong,1/29/20 19:30,10,0,0,10.0
+403,01/30/2020,Hong Kong,Hong Kong,1/30/20 16:00,10,0,0,10.0
+412,01/30/2020,Unknown,Japan,1/30/20 16:00,11,0,1,10.0
+415,01/30/2020,Unknown,Singapore,1/30/20 16:00,10,0,0,10.0
+462,01/31/2020,Taiwan,Taiwan,1/31/2020 23:59,10,0,0,10.0

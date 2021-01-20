@@ -1,0 +1,13 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+3,01/22/2020,Chongqing,China,1/22/2020 17:00,6,0,0,6.0
+63,01/23/2020,Shandong,China,1/23/20 17:00,6,0,0,6.0
+149,01/25/2020,Shanxi,China,1/25/20 17:00,6,0,0,6.0
+208,01/26/2020,Unknown,Thailand,1/26/20 16:00,8,0,2,6.0
+245,01/27/2020,Jilin,China,1/27/20 23:59,6,0,0,6.0
+246,01/27/2020,Macau,Macau,1/27/20 23:59,6,0,0,6.0
+247,01/27/2020,Qinghai,China,1/27/20 23:59,6,0,0,6.0
+255,01/27/2020,Unknown,Thailand,1/27/20 23:59,8,0,2,6.0
+300,01/28/2020,Qinghai,China,1/28/20 23:00,6,0,0,6.0
+305,01/28/2020,Unknown,Japan,1/28/20 23:00,7,0,1,6.0
+352,01/29/2020,Qinghai,China,1/29/20 19:30,6,0,0,6.0
+357,01/29/2020,Unknown,Japan,1/29/20 19:30,7,0,1,6.0

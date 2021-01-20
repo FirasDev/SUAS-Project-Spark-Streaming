@@ -1,0 +1,16 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+56,01/23/2020,Jiangxi,China,1/23/20 17:00,7,0,0,7.0
+147,01/25/2020,Hebei,China,1/25/20 17:00,8,1,0,7.0
+148,01/25/2020,Inner Mongolia,China,1/25/20 17:00,7,0,0,7.0
+162,01/25/2020,Unknown,Thailand,1/25/20 17:00,7,0,0,7.0
+194,01/26/2020,Inner Mongolia,China,1/26/20 16:00,7,0,0,7.0
+195,01/26/2020,Gansu,China,1/26/20 16:00,7,0,0,7.0
+243,01/27/2020,Guizhou,China,1/27/20 23:59,7,0,0,7.0
+244,01/27/2020,Ningxia,China,1/27/20 23:59,7,0,0,7.0
+299,01/28/2020,Macau,Macau,1/28/20 23:00,7,0,0,7.0
+308,01/28/2020,Unknown,Singapore,1/28/20 23:00,7,0,0,7.0
+351,01/29/2020,Macau,Macau,1/29/20 19:30,7,0,0,7.0
+360,01/29/2020,Unknown,Singapore,1/29/20 19:30,7,0,0,7.0
+364,01/29/2020,Unknown,Malaysia,1/29/20 19:30,7,0,0,7.0
+406,01/30/2020,Macau,Macau,1/30/20 16:00,7,0,0,7.0
+464,01/31/2020,Macau,Macau,1/31/2020 23:59,7,0,0,7.0

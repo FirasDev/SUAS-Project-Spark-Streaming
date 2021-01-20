@@ -1,0 +1,3 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+173,01/26/2020,Henan,China,1/26/20 16:00,83,1,0,82.0
+448,01/31/2020,Yunnan,China,1/31/2020 23:59,83,0,1,82.0

@@ -1,0 +1,5 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+178,01/26/2020,Shandong,China,1/26/20 16:00,46,0,0,46.0
+230,01/27/2020,Jiangsu,China,1/27/20 23:59,47,0,1,46.0
+231,01/27/2020,Guangxi,China,1/27/20 23:59,46,0,0,46.0
+283,01/28/2020,Shaanxi,China,1/28/20 23:00,46,0,0,46.0

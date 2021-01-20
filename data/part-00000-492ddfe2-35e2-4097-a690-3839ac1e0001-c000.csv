@@ -1,0 +1,8 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+73,01/23/2020,Zhejiang,China,1/23/20 17:00,27,0,0,27.0
+89,01/24/2020,Chongqing,China,1/24/20 17:00,27,0,0,27.0
+136,01/25/2020,Shandong,China,1/25/20 17:00,27,0,0,27.0
+234,01/27/2020,Liaoning,China,1/27/20 23:59,27,0,0,27.0
+289,01/28/2020,Shanxi,China,1/28/20 23:00,27,0,0,27.0
+341,01/29/2020,Tianjin,China,1/29/20 19:30,27,0,0,27.0
+455,01/31/2020,Guizhou,China,1/31/2020 23:59,29,0,2,27.0

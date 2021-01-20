@@ -1,0 +1,8 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+2,01/22/2020,Beijing,China,1/22/2020 17:00,14,0,0,14.0
+189,01/26/2020,Heilongjiang,China,1/26/20 16:00,15,1,0,14.0
+190,01/26/2020,Tianjin,China,1/26/20 16:00,14,0,0,14.0
+239,01/27/2020,Gansu,China,1/27/20 23:59,14,0,0,14.0
+401,01/30/2020,Xinjiang,China,1/30/20 16:00,14,0,0,14.0
+466,01/31/2020,Unknown,Thailand,1/31/2020 23:59,19,0,5,14.0
+467,01/31/2020,Unknown,Japan,1/31/2020 23:59,15,0,1,14.0

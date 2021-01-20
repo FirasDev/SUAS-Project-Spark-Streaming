@@ -1,0 +1,4 @@
+SNo,ObservationDate,Province,Country,Last_Update,Confirmed,Deaths,Recovered,Active_case
+88,01/24/2020,Beijing,China,1/24/20 17:00,36,0,1,35.0
+183,01/26/2020,Fujian,China,1/26/20 16:00,35,0,0,35.0
+232,01/27/2020,Shaanxi,China,1/27/20 23:59,35,0,0,35.0
