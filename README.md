@@ -1,8 +1,7 @@
 Project - Spark Streaming
-Realized by : 
-		Hachem Ouasli
-		Firas Ben Mbarek
-		Mohamed Jridi
+Realized by :   Hachem Ouasli - 
+		Firas Ben Mbarek - 
+		Mohamed Jridi - 
 
 Under the supervision of :
 		Mr. Constantine Pohl
